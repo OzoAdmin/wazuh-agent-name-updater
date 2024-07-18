@@ -1,0 +1,1 @@
+# wazuh-agent-name-updater
